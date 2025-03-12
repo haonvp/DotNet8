@@ -1,0 +1,15 @@
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\bin\Debug\net8.0\Lesson5HW.exe
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\bin\Debug\net8.0\Lesson5HW.deps.json
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\bin\Debug\net8.0\Lesson5HW.runtimeconfig.json
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\bin\Debug\net8.0\Lesson5HW.dll
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\bin\Debug\net8.0\Lesson5HW.pdb
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\obj\Debug\net8.0\Lesson5HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\obj\Debug\net8.0\Lesson5HW.AssemblyInfoInputs.cache
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\obj\Debug\net8.0\Lesson5HW.AssemblyInfo.cs
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\obj\Debug\net8.0\Lesson5HW.csproj.CoreCompileInputs.cache
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\obj\Debug\net8.0\Lesson5HW.sourcelink.json
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\obj\Debug\net8.0\Lesson5HW.dll
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\obj\Debug\net8.0\refint\Lesson5HW.dll
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\obj\Debug\net8.0\Lesson5HW.pdb
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\obj\Debug\net8.0\Lesson5HW.genruntimeconfig.cache
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\HW\Lesson5HW\Lesson5HW\obj\Debug\net8.0\ref\Lesson5HW.dll

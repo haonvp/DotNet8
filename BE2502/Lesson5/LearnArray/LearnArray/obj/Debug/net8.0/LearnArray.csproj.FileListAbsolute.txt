@@ -1,0 +1,15 @@
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\bin\Debug\net8.0\LearnArray.exe
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\bin\Debug\net8.0\LearnArray.deps.json
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\bin\Debug\net8.0\LearnArray.runtimeconfig.json
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\bin\Debug\net8.0\LearnArray.dll
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\bin\Debug\net8.0\LearnArray.pdb
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\obj\Debug\net8.0\LearnArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\obj\Debug\net8.0\LearnArray.AssemblyInfoInputs.cache
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\obj\Debug\net8.0\LearnArray.AssemblyInfo.cs
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\obj\Debug\net8.0\LearnArray.csproj.CoreCompileInputs.cache
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\obj\Debug\net8.0\LearnArray.sourcelink.json
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\obj\Debug\net8.0\LearnArray.dll
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\obj\Debug\net8.0\refint\LearnArray.dll
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\obj\Debug\net8.0\LearnArray.pdb
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\obj\Debug\net8.0\LearnArray.genruntimeconfig.cache
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnArray\LearnArray\obj\Debug\net8.0\ref\LearnArray.dll

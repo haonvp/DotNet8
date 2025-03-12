@@ -1,0 +1,15 @@
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\bin\Debug\net8.0\LearnLoop.exe
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\bin\Debug\net8.0\LearnLoop.deps.json
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\bin\Debug\net8.0\LearnLoop.runtimeconfig.json
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\bin\Debug\net8.0\LearnLoop.dll
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\bin\Debug\net8.0\LearnLoop.pdb
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\obj\Debug\net8.0\LearnLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\obj\Debug\net8.0\LearnLoop.AssemblyInfoInputs.cache
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\obj\Debug\net8.0\LearnLoop.AssemblyInfo.cs
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\obj\Debug\net8.0\LearnLoop.csproj.CoreCompileInputs.cache
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\obj\Debug\net8.0\LearnLoop.sourcelink.json
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\obj\Debug\net8.0\LearnLoop.dll
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\obj\Debug\net8.0\refint\LearnLoop.dll
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\obj\Debug\net8.0\LearnLoop.pdb
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\obj\Debug\net8.0\LearnLoop.genruntimeconfig.cache
+D:\PHONG HAO\Doc\T3H\DotNet8\Project\BE2502_gitme\BE2502\Lesson5\LearnLoop\obj\Debug\net8.0\ref\LearnLoop.dll

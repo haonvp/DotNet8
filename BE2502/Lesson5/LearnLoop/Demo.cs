@@ -42,14 +42,22 @@ namespace LearnLoop
 
         public void InputStudent()
         {
-            Console.WriteLine("Input the name: ");
-            var name = Console.ReadLine();
-            int age = validateInt("age");
-            double lit = validateDouble("lit");
-            double math = validateDouble("math");
+            var isCont = true;
+            while (isCont)
+            {
+                Console.WriteLine("Input the name: ");
+                var name = Console.ReadLine();
+                int age = validateInt("age");
+                Func<double, bool> litCondition = numb => numb >= 0 && numb <= 10;
+                double lit = validateDouble("lit", litCondition);
+                double math = validateDouble("math");
 
-            var avg = (math + lit) / 2;
-            Console.WriteLine($"The name: {name}, age: {age}, average scor: {avg}");
+                var avg = (math + lit) / 2;
+                Console.WriteLine($"The name: {name}, age: {age}, average score: {avg}");
+            
+                Console.WriteLine("Do you want to input again ? y/n");
+                isCont = Console.ReadLine() == "y";
+            }
         }
 
         public int validateInt(String flied)
@@ -64,16 +72,33 @@ namespace LearnLoop
             return age;
         }
 
-        public double validateDouble(String flied)
+        public double validateDouble(String flied, Func<double, bool> condition = null)
         {
             Console.WriteLine($"Input the {flied}");
             var checkDouble = double.TryParse(Console.ReadLine(), out double value);
+            if(condition != null)
+            {
+                checkDouble = condition(value);
+            }
             while (!checkDouble)
             {
                 Console.WriteLine($"{flied} is not correct, intpu again...");
                 checkDouble = double.TryParse(Console.ReadLine(), out value);
+                if(condition != null)
+                {
+                    checkDouble = condition(value);
+                }
             }
             return value;
+        }
+
+        public void demoDoWhile()
+        {
+            int i = 5;
+            do
+            {
+                Console.WriteLine(i);
+            } while (i < 5);
         }
     }
 }
