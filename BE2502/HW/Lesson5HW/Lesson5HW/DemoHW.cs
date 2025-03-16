@@ -12,7 +12,7 @@ namespace Lesson5HW
         {
             for(int i = 0; i < tiengAnh.Length; i++)
             {
-                if (letter.Equals(tiengAnh[i]))
+                if (letter.Equals(tiengAnh[i], StringComparison.OrdinalIgnoreCase))
                 {
                     Console.Write("Tieng Viet nghia la: " + tiengViet[i]);
                     return;
